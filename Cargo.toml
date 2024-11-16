@@ -2,5 +2,7 @@
 name = "lcars"
 version = "0.1.0"
 edition = "2021"
+description = "Library for making LCARS-like interfaces using Rust"
+license = "MIT"
 
 [dependencies]
