@@ -6,3 +6,5 @@ description = "Library for making LCARS-like interfaces using Rust"
 license = "MIT"
 
 [dependencies]
+wgpu = "23.0.0"
+winit = "0.30.5"
